@@ -26,7 +26,7 @@ const Contact = () => {
               <p className="mb-4">
                 Horários de Funcionamento:
                 <br />
-                • Segundas a Sexta: 08:00h - 12:00h e 13:00h - 18:30h
+                • Segundas a Sexta: 08:00h - 12:00h e 13:00h - 20:00h
                 <br />
                 • Sábado: 08:00h - 12:00h e 13:00h - 17:00h
               </p>
